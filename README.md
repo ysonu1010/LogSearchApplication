@@ -48,7 +48,7 @@ Upon accessing the /log-search/search endpoint, you will receive a JSON response
   ]
 }
 ```
-Lenovog550##
+
 
 
 ## Mock Details
