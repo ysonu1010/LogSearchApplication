@@ -1,0 +1,7 @@
+2023-11-25 00:01:39.345 DEBUG className:200 - 01:txt :- Hi, this is sample log line 1
+2023-11-25 00:02:39.345 DEBUG className:200 - 01:txt :- Developed the sample microservice
+2023-11-25 00:03:39.345 DEBUG className:200 - 01:txt :- This microservice serves the log search capability
+2023-11-25 00:04:39.345 DEBUG className:200 - 01:txt :- log search is similar to grep command in linux
+2023-11-25 00:05:39.345 DEBUG className:200 - 01:txt :- grep - GLOBAL search for REGEX and PRINT
+2023-11-25 00:06:39.345 DEBUG className:200 - 01:txt :- With this we report the lines matching the pattern supplied
+2023-11-25 00:07:39.345 DEBUG className:200 - 01:txt :- The request will contain the pattern with from & to
